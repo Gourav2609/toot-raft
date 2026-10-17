@@ -6,7 +6,7 @@
 
 [![Toot Raft gameplay](media/preview.gif)](media/toot-raft-clip.mp4)
 
-*Click the preview for the full clip with sound.*
+*Click the preview for the full trailer with sound.*
 
 ---
 
@@ -19,6 +19,7 @@ Friendships will be tested.
 
 - **Free, no install.** Runs in any modern browser on laptops and phones.
 - **Play together on one keyboard** (up to 4), or **online**: make a room, send the link, and each friend plays from their own device.
+- **Team Race:** two rafts, two teams of up to 4. First raft down the river wins.
 - **Works on phones.** Turn your phone sideways, aim with your left thumb, hold TOOT with your right. Add it to your home screen to play full screen.
 
 ## How to play
@@ -35,16 +36,17 @@ Friendships will be tested.
 - Your gas runs out if you toot for too long. Watch the bar and let it refill.
 - Spikes pop the raft, and the open edges drop you off the island. Both send you back to the last checkpoint.
 - Mines blast the raft sideways. They grow back after a few seconds.
+- Crocodiles swim across the river. Their body bounces you off, but stay away from the open jaws.
 
 ## Levels
 
 1. **Lazy Lagoon**: rocks, gentle bends and a small waterfall. Start here.
-2. **Spike Canyon**: spiked walls and spinning bars at sunset.
-3. **Mine Bay**: a wide turquoise bay full of mines.
-4. **Rapids Run**: rough water, open edges and two waterfalls at dusk.
-5. **Grand Gauntlet**: everything at once.
+2. **Spike Canyon**: crusher gates, a drawbridge, bumper buoys, a wind fan and your first uphill climb.
+3. **Mine Bay**: a bay full of mines, whirlpools, swinging logs and crocodiles.
+4. **Rapids Run**: rapids, waterfalls, open edges, swinging logs, crocodiles and three climbs.
+5. **Grand Gauntlet**: spike rings, moving spike walls, crushers, crocodiles and everything else at once.
 
-More levels are coming, and they'll be harder.
+More levels are coming.
 
 ## Feedback
 
